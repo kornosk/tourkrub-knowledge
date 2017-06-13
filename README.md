@@ -4,7 +4,7 @@ Knowledge when working as Software Engineer at Tourkrub startup
 ## Ruby on Rails ##
 * rbenv = ruby and rails version controller
 * Sidekiq = Thread worker
-* will_paginate
+* will_paginate / kaminari [Link](https://github.com/kaminari/kaminari)
 
 ## Monit ##
 * We can set memory limit for a process, which will prevent the server from memory leak problem
