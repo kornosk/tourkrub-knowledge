@@ -17,3 +17,4 @@ Knowledge when working as Software Engineer at Tourkrub startup
 ## Miscellaneous ##
 * ngrok http PORT => make others can access our server at port PORT when use in same LAN
 * CSS and JS will not be loaded if the redis server is off
+* MailShrimp & Mandrill => Email third-party tools
